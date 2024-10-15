@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Systems Programmer and Frontend Developer
 -----------------------------------------
 
-I am currently a student majoring Computer Science at Worcester Polytechnic Institute and minoring in Data Science. While I have done extensive work in the realm of systems programming, I recently started learning Frontend development as well, so that I could create useful Softwares for myself and other people. The main project I am working on right now is a private SUV car service website.
+I am currently a student majoring Computer Science at Worcester Polytechnic Institute and minoring in Data Science. While I have done extensive work in the realm of systems programming, I recently started learning Frontend development as well, so that I could create useful Softwares for myself and other people. The main project I am working on right now is a private SUV car service website. Additionally, I have extensive work with Databases, particularly in the realms of SQL and Apache.
 
 * 🌍  I'm based in New York City
 * ✉️  You can contact me at [armart1608@gmail.com](mailto:armart1608@gmail.com)
