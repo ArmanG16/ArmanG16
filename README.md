@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arman
 =============================================================================================================================
 
-Systems Programmer and Frontend Developer
+Systems Programmer and Full-Stack Developer
 -----------------------------------------
 
-I am currently a student majoring Computer Science at Worcester Polytechnic Institute and minoring in Data Science. While I have done extensive work in the realm of systems programming, I've also done projects in Frontend development as well, so that I could create useful Softwares for myself and other people. The main project I am working on right now is a private SUV car service website. Additionally, I have extensive work with Databases, particularly in the realms of SQL, Apache, Azure, and Cloud Services.
+I am currently a student majoring Computer Science at Worcester Polytechnic Institute and minoring in Data Science. While I have done extensive work in the realm of systems programming, I've also done projects in Full-Stack development as well, including my own personal website, which could be found in my repository (and also this domain: armanterminal.com), so that I could create useful Softwares for myself and other people. The main project I am working on right now is a private SUV car service website. Additionally, I have extensive work with Databases, particularly in the realms of SQL, Apache, Azure, and Cloud Services.
 
 * 🌍  I'm based in New York City
 * ✉️  You can contact me at [armart1608@gmail.com](mailto:armart1608@gmail.com)
